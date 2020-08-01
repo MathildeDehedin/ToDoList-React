@@ -31,8 +31,7 @@ function App() {
 
   const handleClickTrash = (index) => {
     const newTasks = [...tasks];
-    newTasks[index].pop();
-    // newTasks.splice(newTasks.indexOf(newTasks[index]), 1);
+    newTasks.splice(newTasks.indexOf(newTasks[index]), 1);
     setTasks(newTasks);
   };
 
