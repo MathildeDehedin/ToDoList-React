@@ -1,7 +1,13 @@
-## To Do List
+# To Do List
 
-### Made with _React_
+Add / remove some tasks to your ToDo List
 
-https://create-your-to-do-list.netlify.app
+### _Languages_ & _Packages_
 
-  <img src="./picture.png" width="450" alt="create your to do list">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+
+### _Deployment_
+
+[Netlify](https://create-your-to-do-list.netlify.app)
+
+  <img src="./src/assets/Ready.png" width="350" alt="Ready">
