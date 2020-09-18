@@ -10,4 +10,4 @@ Add / remove some tasks to your ToDo List
 
 [Netlify](https://create-your-to-do-list.netlify.app)
 
-  <img src="./src/assets/Ready.png" width="350" alt="Ready">
+  <img src="./src/assets/list.png" width="350" alt="list">
